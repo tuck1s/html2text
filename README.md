@@ -47,5 +47,3 @@ _Originally written by Aaron Swartz. This code is distributed under the GPLv3._
 
     cd test/
     python run_tests.py
-
-[![Build Status](https://secure.travis-ci.org/aaronsw/html2text.png)](http://travis-ci.org/aaronsw/html2text)
